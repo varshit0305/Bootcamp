@@ -74,8 +74,6 @@ Contract Address ID: ST1EQBK9CTC5DAP7215WPKJGRGV1AVE46FXRAPZWP.ComplianceMonitor
 <img width="1916" height="904" alt="image" src="https://github.com/user-attachments/assets/5866c104-9342-41bb-8343-00024e3b124a" />
 
 ### Contract Verification
-- **Source Code Verification**: `[To be updated]`
-- **Contract ABI**: `[To be updated]`
 - **Compiler Version**: Clarity VM
 - **Optimization**: Enabled
 
