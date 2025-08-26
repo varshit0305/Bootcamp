@@ -116,6 +116,12 @@ The ComplianceMonitoring Tool has extensive potential for expansion and enhancem
 - Input validation for all parameters
 - Error handling with specific error codes
 - Immutable audit trail on blockchain
+### Contract Details
+- Deployed Contract Address: ST1EQBK9CTC5DAP7215WPKJGRGV1AVE46FXRAPZWP.ComplianceMonitoringTool
+<img width="1913" height="831" alt="image" src="https://github.com/user-attachments/assets/1e45bd57-e60c-46bb-b4f9-3ed2c3268952" />
+
+<img width="1916" height="904" alt="image" src="https://github.com/user-attachments/assets/5866c104-9342-41bb-8343-00024e3b124a" />
+
 
 ---
 
