@@ -68,15 +68,10 @@ The ComplianceMonitoring Tool has extensive potential for expansion and enhancem
 - **Interoperability Protocols**: Cross-chain communication for unified compliance monitoring
 
 ## Contract Address Details
+Contract Address ID: ST1EQBK9CTC5DAP7215WPKJGRGV1AVE46FXRAPZWP.ComplianceMonitoringTool
+<img width="1913" height="831" alt="image" src="https://github.com/user-attachments/assets/1e45bd57-e60c-46bb-b4f9-3ed2c3268952" />
 
-*Contract deployment information will be updated here once the smart contract is deployed to the Stacks blockchain.*
-
-
-### Testnet Deployment
-- **Contract Address**: `ST1EQBK9CTC5DAP7215WPKJGRGV1AVE46FXRAPZWP.ComplianceMonitoringTool`
-- **Deployment Transaction**: `0xdbdf42f16b34afc4c30513a2dda5275a16ecf06b4d779933f7fd0d8c86c600cd`
-- **Block Height**: `10:27:18 AM 8/26/2025`
-- **Deployment Date**: `[To be updated]`
+<img width="1916" height="904" alt="image" src="https://github.com/user-attachments/assets/5866c104-9342-41bb-8343-00024e3b124a" />
 
 ### Contract Verification
 - **Source Code Verification**: `[To be updated]`
@@ -116,13 +111,6 @@ The ComplianceMonitoring Tool has extensive potential for expansion and enhancem
 - Input validation for all parameters
 - Error handling with specific error codes
 - Immutable audit trail on blockchain
-### Contract Details
-- Deployed Contract Address: ST1EQBK9CTC5DAP7215WPKJGRGV1AVE46FXRAPZWP.ComplianceMonitoringTool
-<img width="1913" height="831" alt="image" src="https://github.com/user-attachments/assets/1e45bd57-e60c-46bb-b4f9-3ed2c3268952" />
-
-<img width="1916" height="904" alt="image" src="https://github.com/user-attachments/assets/5866c104-9342-41bb-8343-00024e3b124a" />
 
 
 ---
-
-*For technical support, contribution guidelines, or partnership opportunities, please refer to our documentation or contact the development team.*
